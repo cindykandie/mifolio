@@ -91,6 +91,9 @@ body section.socials a{
   margin-top: 30px;
   margin-bottom: 40px;
 }
+body section.socials a:hover{
+  text-decoration: underline;
+}
   @media (min-width: 700px) {
   body .intro-card {
     font-size: 200%;
